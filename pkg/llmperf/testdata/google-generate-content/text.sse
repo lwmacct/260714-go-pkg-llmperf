@@ -1,0 +1,6 @@
+data: {"responseId":"google_1","candidates":[{"index":0,"content":{"parts":[{"text":"internal","thought":true}]}}]}
+
+data: {"responseId":"google_1","candidates":[{"index":0,"content":{"parts":[{"text":"Hello"}]}}]}
+
+data: {"responseId":"google_1","candidates":[{"index":0,"finishReason":"STOP"}],"usageMetadata":{"candidatesTokenCount":5}}
+
